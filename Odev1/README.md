@@ -1,7 +1,7 @@
 # kodluyoruzFrontend-CSS
 
-![alt text](file:///C:/Users/my/Desktop/fmelsanatlariAnasayfa.png)
+![Anasayfa](https://github.com/FerideMetin/kodluyoruzFrontend-CSS/blob/main/Odev1/fmelsanatlariAnasayfa.png)
 
-![alt text](file:///C:/Users/my/Desktop/fmelsanatlariUrunler.png)
+![Ürünler](https://github.com/FerideMetin/kodluyoruzFrontend-CSS/blob/main/Odev1/fmelsanatlariUrunler.png)
 
-![alt text](file:///C:/Users/my/Desktop/fmelsanatlariHakkımızda.png)
+![Hakkımızda](https://github.com/FerideMetin/kodluyoruzFrontend-CSS/blob/main/Odev1/fmelsanatlariHakkımızda.png)
