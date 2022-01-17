@@ -1,1 +1,1 @@
-![Google](file:///C:/Users/my/Desktop/Frontend%20Eğitimi/Frontend-CSS/kodluyoruzFrontend-CSS/Odev2/googleWeb.png)
+![Google](https://github.com/FerideMetin/kodluyoruzFrontend-CSS/blob/main/Odev2/googleWeb.png)
